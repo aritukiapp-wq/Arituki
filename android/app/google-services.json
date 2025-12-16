@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949702547598",
+    "project_id": "zgzapp-91c27",
+    "storage_bucket": "zgzapp-91c27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949702547598:android:19e738c86817caeae0d1df",
+        "android_client_info": {
+          "package_name": "com.aritukiapp.arituki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDGdHTyhQtHKx0AwS6pug4dmyYPDY-uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949702547598:android:0b37ad0539a62915e0d1df",
+        "android_client_info": {
+          "package_name": "com.example.zgzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDGdHTyhQtHKx0AwS6pug4dmyYPDY-uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

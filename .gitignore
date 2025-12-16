@@ -1,0 +1,85 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Android related
+/android/key.properties
+/android/local.properties
+/android/app/src/main/assets/flutter_assets/
+/android/app/build/
+/android/.gradle
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS related
+/ios/Flutter/App.framework
+/ios/Flutter/flutter_assets/
+/ios/Flutter/.last_build_id
+/ios/Runner/Assets.xcassets/
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcodeproj/xcshareddata/
+/ios/Runner.xcworkspace/
+/ios/.symlinks/
+/ios/Pods/
+/ios/Podfile.lock
+
+# macOS related
+/macos/Flutter/ephemeral
+/macos/Flutter/Flutter-Debug.xcconfig
+/macos/Flutter/Flutter-Release.xcconfig
+/macos/Pods/
+/macos/Podfile.lock
+/macos/.symlinks/
+
+# Windows related
+/windows/flutter/ephemeral
+/windows/flutter/generated_plugin_registrant.cc
+/windows/runner/Debug/
+/windows/runner/Profile/
+/windows/runner/Release/
+/windows/.vs/
+
+# Linux related
+/linux/flutter/ephemeral
+/linux/flutter/generated_plugin_registrant.cc
+/linux/CMakeLists.txt.user
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
